@@ -10,7 +10,7 @@ also install wdio cli
 
 # Setup
 #### install lastest node
-`git clone url`
+`git clone https://github.com/raj12032020/tray.git`
 
 ##### And also install google chrome
 This test uses chrome browser
