@@ -5,7 +5,7 @@ The test was developed on a mac and assume it will work on windows too.
 ### Framework
 WebdriverIO v6
 This can be installed from https://webdriver.io/docs/gettingstarted.html
-also install wdio cli
+##### also install wdio cli
 `npm i --save-dev @wdio/cli`
 
 # Setup
