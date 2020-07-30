@@ -1,0 +1,24 @@
+{
+  "name": "tray",
+  "version": "1.0.0",
+  "description": "interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "keywords": [
+    "sauce"
+  ],
+  "author": "raj",
+  "license": "MIT",
+  "devDependencies": {
+    "@wdio/allure-reporter": "^6.3.6",
+    "@wdio/cli": "^6.3.6",
+    "@wdio/cucumber-framework": "^6.3.6",
+    "@wdio/local-runner": "^6.3.6",
+    "@wdio/spec-reporter": "^6.3.6",
+    "@wdio/sync": "^6.3.6",
+    "chromedriver": "^84.0.1",
+    "wdio-chromedriver-service": "^6.0.3"
+  }
+}
