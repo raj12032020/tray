@@ -24,3 +24,5 @@ Clone the project and then follow the commands
 1. `cd tray`
 2. npm install --production
 3. npm run test
+
+The step definition file hosts all the navigation and assertions, but this can be easily scaled for bigger projects with various navigations

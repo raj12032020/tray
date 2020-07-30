@@ -8,6 +8,7 @@ class BasketPage extends Page {
     get checkout () { return $('.checkout_button') }
 
     removeCheapestItem() {
+        //find the cheapest and get its parent then locate the button to remove
         var parent = $('div='+super.listedPrices(this.priceArray).sort()[0]).$('..')
         parent.$(`${this.button}`).click()
     }
